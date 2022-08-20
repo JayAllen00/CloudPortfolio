@@ -1,0 +1,17 @@
+Architecture Evolution
+
+Stage 4
+
+Applications Used
+
+EFS
+Systems Manager
+EC2
+WordPress
+
+Objective
+
+Provision the EFS (including lifecyle managment).
+Migrate all the content for the WordPress application from the instance
+to the EFS.
+This is to be able to scale in or scale out so will make it fully elastic.

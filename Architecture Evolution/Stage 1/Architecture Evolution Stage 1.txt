@@ -1,0 +1,18 @@
+Architecture Evolution
+
+Stage 1
+
+Applications Used
+
+Cloudformation
+EC2
+Session Manager
+Systems Manager
+
+Objective
+Start with a premade Cloudformation Template.
+Launch an EC2 Instance.
+Configure that EC2 Instance using Sessions Manager.
+Defined Parameters using Systems Manager.
+Place password in a secure string for security.
+Begin migration from MariaDB.

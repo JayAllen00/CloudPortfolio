@@ -1,0 +1,17 @@
+Architecture Evolution
+
+Stage 5
+
+Applications Used
+
+EC2
+ALB
+Target Group
+Systems Manager
+
+Objective
+
+Provsion an autoscaling group which will allow instances to scale out or in as requied.
+Create an ALB to have the customers connect to and not the instances.
+This will make the system fully resilent, self healing, and elastic.
+

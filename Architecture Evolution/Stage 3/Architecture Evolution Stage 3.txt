@@ -1,0 +1,17 @@
+Architecture Evolution
+
+Stage 3
+
+Applications Used
+
+Systems Manager
+RDS
+Session Manager
+
+Objective
+
+Perform a database migration moving the MySQL database off the EC2 Instance
+and running it on a dedicated RDS instance. Moving towards a fully elastic
+scalable architecture.
+Update the user data in the launch template for the EC2 instance.
+Also creating a new version of the launch template to go along with the updates.

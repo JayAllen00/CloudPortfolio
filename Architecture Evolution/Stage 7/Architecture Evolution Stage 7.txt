@@ -1,0 +1,21 @@
+Architecture Evolution
+
+Stage 7
+
+Applications Used
+
+ASG
+CloudWatch Alarm
+EC2
+ALB
+WordPress
+
+Objectives
+
+Monitor the activity using ASG and Cloudwatch
+Terminate the instance to watch the auto healing work
+Check to make sure the wordpress blog is operational and fully elastic.
+
+
+
+

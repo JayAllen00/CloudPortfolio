@@ -1,0 +1,20 @@
+Architecture Evolution
+
+Stage 2
+
+Applications Used
+
+EC2
+WordPress
+RDS
+
+Objective
+
+Create Wordpress Blog (create text, upload pictures)
+Stop and Start instance to show public IPv4 change
+Terminate instance
+Replicate the process
+Create new launch template with new user data instructions
+to provide automatic provsioning
+Create subnet group for Wordpress
+Then create a MySQL database

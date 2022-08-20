@@ -1,0 +1,16 @@
+Web Identity Federation
+
+Stage 2
+
+Applications Used
+
+S3
+Web Browser
+
+Objective
+
+Check to make sure that you have to sign in to google and see the API call in the web browser,
+notice the google auth tokens to be able to login in to the private bucket. The pre signed URLS
+are what help access the private bucket and its images.
+
+

@@ -1,0 +1,22 @@
+Architecture Evolution
+
+Stage 6
+
+Applications Used
+
+ASG
+CloudWatch Alarm
+Session Manager
+
+Objectives
+
+Update the launch template
+Create a ALB
+Terminate the old instance
+New WordPress ASG instance
+Create dynamic scaling policy (simple scaling)
+Create CLoudWatch Alarm (threshold greater than 40 and less than 40)
+Change maximum capacity of the austoscaling group from 1 to 3
+
+
+

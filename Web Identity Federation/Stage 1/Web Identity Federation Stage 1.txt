@@ -1,0 +1,26 @@
+Web Identity Federation
+
+Stage 1
+
+Applications Used
+
+Cloudformation
+CloudFront
+S3
+Google Cloud
+Cognito
+IAM
+VS Code
+
+Objective
+
+Use Cloudformation template to create an application stack
+with the S3 and cloudfront resources
+Make a google identity to autheniticate using OAuth client ID
+Use cognito identity pool to access that google oauth ID
+make sure the IAM Roles are correct for temp AWS creditials to interact with AWS resources
+Edit the javascript and html to interact with google and AWS to make the temperary creditials
+then re upload newly edited files to S3
+Once complete it is a fully functional web application that uses Web Identity Federation
+
+
