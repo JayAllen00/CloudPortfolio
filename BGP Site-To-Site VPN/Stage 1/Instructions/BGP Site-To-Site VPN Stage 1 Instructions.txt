@@ -1,0 +1,18 @@
+Stage 1
+
+Applications Used
+
+CloudFormation
+VPN
+Customer Gateways
+EC2
+Sessions Manager
+Transit Gateway Attachments
+Site to Site VPN Connections
+Template with IP addresses
+
+Objective
+
+Configure two linux based VPN servers which uses strongSwan
+and a system known as FRR to do BGP. Create the enviroments
+configure the AWS side the create the IPsec tunnels the add BGP.

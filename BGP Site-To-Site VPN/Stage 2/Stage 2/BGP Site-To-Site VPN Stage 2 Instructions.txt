@@ -1,0 +1,18 @@
+Stage 2
+
+Applications Used
+
+EC2
+Sessions Manager
+
+
+Objective
+
+Create two VPN attachments for the transite gateway and the transit
+gateway already exists. Select accelerated VPN options which means
+that AWS will create acclerated VPN endpoints, two per connection.
+Those supply transit back to the transite gateway over the AWS global
+network. The process creates VPN connections which can be used to 
+connect the accelerated VPN endpoints to the on premises routers 
+using IPsec tunnels two per connection. This stage the AWS side 
+will be configured.

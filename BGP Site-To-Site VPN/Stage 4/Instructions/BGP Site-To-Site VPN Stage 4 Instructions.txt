@@ -1,0 +1,12 @@
+Stage 4
+
+Applications Used
+
+EC2
+Sessions Manager
+Site to Site VPN Connections
+
+
+Objective
+
+The VPN is fully functional and now testing it by pinging from both sides.

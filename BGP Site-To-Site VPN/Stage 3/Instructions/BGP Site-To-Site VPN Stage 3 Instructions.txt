@@ -1,0 +1,18 @@
+Stage 3
+
+Applications Used
+
+VPC
+Site to Site VPN Connections
+EC2
+Sessions Manager
+Transit Gateway Route Tables
+
+Objective
+
+Establich parts of the tunnels by configure the on premises part of the
+architecture which has two layers. The IPsec tunnels and the BGP system.
+Install FRR from pre installed scripts on Router1 and Router2. Then configure
+FRR to use BGP and share routing information with AWS on both on premises
+routers.
+
