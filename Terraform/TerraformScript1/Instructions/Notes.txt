@@ -1,0 +1,16 @@
+5 Public Instances
+5 Private Instance
+
+2 Target Groups
+
+4 Security Groups (2 instances, 2ALB, public and private)
+
+2 ALB
+
+14 Subnets (7 public, 7 private)
+
+2 Internet Gateways
+
+2 VPCs
+
+10 EBS Volumes
