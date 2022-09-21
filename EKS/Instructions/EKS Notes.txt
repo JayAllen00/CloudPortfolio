@@ -1,0 +1,10 @@
+Created Master Node with group nodes (worker nodes). 
+
+First I provision an EKS cluster
+Second deploy worker nodes
+Third connect to EKS
+Fourth Run Kubernetes apps
+
+I ran into an error as you can tell. The error needed me to upgrade
+my AWS CLI to run the kubectl command. Once upgraded the command
+runs correctly.
