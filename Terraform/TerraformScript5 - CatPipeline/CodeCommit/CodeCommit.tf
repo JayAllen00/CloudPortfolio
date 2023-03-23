@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 
-resource "aws_codecommit_repository" "catPipeline-CodeCommit2" {
+resource "aws_codecommit_repository" "Your_Repository_Name" {
   repository_name = "Your_Repository_Name"
   description     = "This time, we're cooking with Terraform!"
 }
