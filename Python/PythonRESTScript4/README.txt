@@ -5,7 +5,7 @@ pip install uvicorn
 
 run app
 
-uvicorn books:app --reload
+uvicorn movies:app --reload
 
 URL
 
